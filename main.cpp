@@ -10,7 +10,7 @@ using namespace std;
 int main(){
 
     int n;
-    cout << "Vvedite col-vo elementov massiva ";
+    cout << "please Vvedite col-vo elementov massiva ";
     cin >> n;
     float sum = 0;
     srand(time(0));
