@@ -11,7 +11,7 @@ int main(){
 
     int n;
     cout << "Vvedite col-vo elementov massiva ";
-    cin  n;
+    cin >> n;
     float sum = 0;
     srand(time(0));
     for (int i = 0; i < n; i++){
